@@ -1,0 +1,35 @@
+<vector android:height="24dp" android:viewportHeight="58.0"
+    android:viewportWidth="58.0" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillAlpha="1" android:fillColor="#fff"
+        android:fillType="evenOdd"
+        android:pathData="M44.6,12.46m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"
+        android:strokeColor="#FFF" android:strokeWidth="1.5"/>
+    <path android:fillAlpha="0" android:fillColor="#fff"
+        android:fillType="evenOdd"
+        android:pathData="M51.06,28.06m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"
+        android:strokeColor="#FFF" android:strokeWidth="1.5"/>
+    <path android:fillAlpha="0" android:fillColor="#fff"
+        android:fillType="evenOdd"
+        android:pathData="M44.6,43.66m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"
+        android:strokeColor="#FFF" android:strokeWidth="1.5"/>
+    <path android:fillAlpha="0" android:fillColor="#fff"
+        android:fillType="evenOdd"
+        android:pathData="M29,50.13m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"
+        android:strokeColor="#FFF" android:strokeWidth="1.5"/>
+    <path android:fillAlpha="0" android:fillColor="#fff"
+        android:fillType="evenOdd"
+        android:pathData="M13.4,43.66m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"
+        android:strokeColor="#FFF" android:strokeWidth="1.5"/>
+    <path android:fillAlpha="0" android:fillColor="#fff"
+        android:fillType="evenOdd"
+        android:pathData="M6.94,28.06m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"
+        android:strokeColor="#FFF" android:strokeWidth="1.5"/>
+    <path android:fillAlpha="0" android:fillColor="#fff"
+        android:fillType="evenOdd"
+        android:pathData="M13.4,12.46m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"
+        android:strokeColor="#FFF" android:strokeWidth="1.5"/>
+    <path android:fillAlpha="0" android:fillColor="#fff"
+        android:fillType="evenOdd"
+        android:pathData="M29,6m-5,0a5,5 0,1 1,10 0a5,5 0,1 1,-10 0"
+        android:strokeColor="#FFF" android:strokeWidth="1.5"/>
+</vector>

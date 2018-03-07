@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Data Hadir GTK</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id" translatable="false">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="ad_app_id" translatable="false">ca-app-pub-5514315741534690~9108007962</string>
+    <string name="test_device_id" translatable="false">33BE2250B43518CCDA7DE426D04EE231</string>
+    <string name="interval_time" translatable="false">60000</string>
+    <string name="zoom" translatable="false">true</string>
+    <string name="loading">Loading</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="no_internet">Tidak ada koneksi</string>
+
+    <string name="write_message">Tulis Pesan</string>
+    <string name="copyright">Copyright @2018 Iman Hermawan</string>
+    <string name="google_title_text">Sign In With Google</string>
+    <string name="coming">You can only login with Google for now</string>
+
+    <string name="authentication_failed">Proses Login Gagal</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="google_status_fmt">Google User: %s</string>
+    <string name="firebase_status_fmt">Firebase User: %s</string>
+
+
+
+</resources>

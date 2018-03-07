@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "579283545286",
+    "firebase_url": "https://imanhermawan2018.firebaseio.com",
+    "project_id": "imanhermawan2018",
+    "storage_bucket": "imanhermawan2018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579283545286:android:a7a6a523d1378b5e",
+        "android_client_info": {
+          "package_name": "com.example.iman.gtk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579283545286-tj17gkb8lef5ubp08jrjm7hn98d951ub.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "579283545286-0s0dpk7pv2eb5u931ocd5enisfcmfhmu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iman.gtk",
+            "certificate_hash": "275a196a62f9dd800acdaa305a469c9daeb9b502"
+          }
+        },
+        {
+          "client_id": "579283545286-t1ovg66u17somnioi05uc2fho8jsosmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAneBn8EbaUrdou9OJv9dt7QTLSTRSFNpY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579283545286-tj17gkb8lef5ubp08jrjm7hn98d951ub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
